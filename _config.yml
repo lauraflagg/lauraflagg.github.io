@@ -84,9 +84,9 @@ author:
   avatar           : #"profile.png"
   bio              : "PhD Candidate in Astronomy & Physics"
   location         : "Houston, TX"
-  employer         :
+  employer         : "Rice University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : https://ui.adsabs.harvard.edu/search/q=%20author%3A%22Flagg%2C%20Laura%22&sort=date%20desc%2C%20bibcode%20desc&p_=0 #"http://yourfullgooglescholarurl.com"
   email            : "laura.flagg@rice.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/lauraflaggastro"
+  twitter          : "lauraflaggastro"
   vine             :
   weibo            :
   xing             :
