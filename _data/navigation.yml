@@ -1,22 +1,9 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://ui.adsabs.harvard.edu/search/q=%20author%3A%22Flagg%2C%20Laura%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#    url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
