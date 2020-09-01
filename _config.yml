@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : #"Your Sidebar Name"
-  avatar           : "me4_crop.jpg"
+  avatar           : "me4_crop.png"
   bio              : "PhD Candidate in Astronomy & Physics"
   location         : "Houston, TX"
   employer         : "Rice University"
