@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "about me..."
+title: "Laura Flagg, observational astronomer: about me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
