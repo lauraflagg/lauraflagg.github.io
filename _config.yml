@@ -82,12 +82,12 @@ analytics:
 author:
   name             : #"Your Sidebar Name"
   avatar           : "me4_crop.png"
-  bio              : "PhD Candidate in Astronomy & Physics"
-  location         : "Houston, TX"
-  employer         : "Rice University"
+  bio              : "Research Associate in Astronomy"
+  location         : "Ithaca, NY"
+  employer         : "Cornell University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "laura.flagg_at_rice.edu"
+  email            : "laura.s.flagg_at_gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
