@@ -26,5 +26,7 @@ Gas Dispersal Timescales in Circumstellar Disks
 Planet formation hinges on the gas present in the disk.  We have looked for (and found!) small amounts of warm molecular hydrogen in disks previously thought to not have warm gas.  
 
 Paper on AU Mic: https://ui.adsabs.harvard.edu/abs/2022ApJ...934....8F/abstract
+
 Paper on TWA 7: https://ui.adsabs.harvard.edu/abs/2021ApJ...921...86F/abstract
+
 poster: https://lauraflagg.github.io/files/coolstars21_poster_new.pdf
