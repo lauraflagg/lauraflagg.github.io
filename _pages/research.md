@@ -10,7 +10,9 @@ redirect_from:
 
 Characterizing Exoplanet Atmospheres with High-Resolution, Optical Transmission Spectra
 ======
+ExoGemS is using spectra from Gemini-GRACES to characterize exoplanets with a wide range of properties.  One highlight from our survey is the detection of CrH in WASP-31b.
 
+paper: https://ui.adsabs.harvard.edu/abs/2023ApJ...953L..19F/abstract
 
 
 Characterizing Young Exoplanets
