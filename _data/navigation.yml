@@ -1,9 +1,11 @@
 # main links links
 main:
+  - title: "Research"
+    url: /research/    
+
   - title: "Publications"
     url: https://ui.adsabs.harvard.edu/search/q=author%3A(%22Flagg%2C%20Laura%22)%20database%3Aastronomy&sort=date%20desc%2C%20bibcode%20desc&p_=0
     
-#  - title: "Talks"
-#    url: /talks/    
+
 
 
