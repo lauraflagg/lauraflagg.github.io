@@ -11,7 +11,9 @@ redirect_from:
 
 Characterizing Young Exoplanets
 ======
-We used high-resolution spectroscopy from IGRINS to detect CO in the atmosphere of CI Tau b, a planet initially discovered by the radial velocity method in 2016.  Our detection confirms the existence of CI Tau b, making it the youngest confirmed hot Jupiter.  It is also the first planet around a T Tauri star with a dynamic mass measurement.
+We used high-resolution spectroscopy from IGRINS to detect CO in the atmosphere of CI Tau b, a planet initially discovered by the radial velocity method in 2016.  Our detection confirms the existence of CI Tau b, making it the youngest confirmed hot Jupiter.  It is also the first planet around a T Tauri star with a dynamic mass measurement.  
+
+Paper: https://ui.adsabs.harvard.edu/abs/2019ApJ...878L..37F/abstract
 
 Gas Dispersal Timescales in Circumstellar Disks
 ======
