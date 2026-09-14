@@ -16,11 +16,13 @@ At Penn State, we are using high-resolution solar spectra in conjunction with so
 We are using HST and JWST to look at young, accreting sub-stellar objects to understand how they form.
 
 papers on Cha 1107-7626: 
-[https://ui.adsabs.harvard.edu/abs/2025ApJ...986..200F/abstract](https://ui.adsabs.harvard.edu/abs/2025ApJ...986..200F/abstract)
-[https://ui.adsabs.harvard.edu/abs/2025ApJ...992L...2A/abstract](Discovery of an Accretion Burst in a Free-floating Planetary-mass Object) 
+
+[Flagg+2025, Detection of Hydrocarbons in the Disk around an Actively Accreting Planetary-mass Object ](https://ui.adsabs.harvard.edu/abs/2025ApJ...986..200F/abstract)
+
+[Almendros-Abad+2025, Discovery of an Accretion Burst in a Free-floating Planetary-mass Object](https://ui.adsabs.harvard.edu/abs/2025ApJ...992L...2A/abstract)
 
 paper on J0844:
-[https://ui.adsabs.harvard.edu/abs/2026ApJ...999..111P/abstract](Accretion Properties of the Young Brown Dwarf 2MASS J08440915-7833457)
+[Panzera+2025, Accretion Properties of the Young Brown Dwarf 2MASS J08440915-7833457](https://ui.adsabs.harvard.edu/abs/2026ApJ...999..111P/abstract)
 
 
 Characterizing Exoplanet Atmospheres with High-Resolution, Optical Transmission Spectra
