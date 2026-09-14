@@ -7,6 +7,21 @@ redirect_from:
   - "/nmp/"
   - "/research.html"
 ---
+**Detecting Solar Activity Signatures in High-Resolution Spectra**
+======
+At Penn State, we are using high-resolution solar spectra in conjunction with solar satellite data to determine what parts of spectra are sensitive to various aspects of Solar activity.
+
+**Substellar Accretion**
+======
+We are using HST and JWST to look at young, accreting sub-stellar objects to understand how they form.
+
+papers on Cha 1107-7626: 
+[https://ui.adsabs.harvard.edu/abs/2025ApJ...986..200F/abstract](https://ui.adsabs.harvard.edu/abs/2025ApJ...986..200F/abstract)
+[https://ui.adsabs.harvard.edu/abs/2025ApJ...992L...2A/abstract](Discovery of an Accretion Burst in a Free-floating Planetary-mass Object) 
+
+paper on J0844:
+[https://ui.adsabs.harvard.edu/abs/2026ApJ...999..111P/abstract](Accretion Properties of the Young Brown Dwarf 2MASS J08440915-7833457)
+
 
 Characterizing Exoplanet Atmospheres with High-Resolution, Optical Transmission Spectra
 ======
