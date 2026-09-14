@@ -11,6 +11,8 @@ redirect_from:
 ======
 At Penn State, we are using high-resolution solar spectra in conjunction with solar satellite data to determine what parts of spectra are sensitive to various aspects of Solar activity.
 
+pilot study lead by Nicole Hao (a student I supervised): [Detecting and Classifying Flares in High-resolution Solar Spectra with Supervised Machine Learning](https://ui.adsabs.harvard.edu/abs/2024ApJ...973..109H/abstract)
+
 **Substellar Accretion**
 ======
 We are using HST and JWST to look at young, accreting sub-stellar objects to understand how they form.
@@ -33,13 +35,15 @@ paper: [https://ui.adsabs.harvard.edu/abs/2023ApJ...953L..19F/abstract](https://
 
 twitter thread: [https://twitter.com/lauraflaggastro/status/1679488708473651201](https://twitter.com/lauraflaggastro/status/1679488708473651201)
 
+a student I supervised, Yasmine Meziani, lead another paper: [The Effect of Offsets from True Orbital Parameters on Exoplanet High-resolution Transmission Spectra](https://ui.adsabs.harvard.edu/abs/2025AJ....170..290M/abstract)
+
+
 
 Characterizing Young Exoplanets
 ======
 We used high-resolution spectroscopy from IGRINS to detect CO in the atmosphere of CI Tau b, a planet initially discovered by the radial velocity method in 2016.  Our detection confirms the existence of CI Tau b, making it the youngest confirmed hot Jupiter.  It is also the first planet around a T Tauri star with a dynamic mass measurement.  
 
 Paper: [https://ui.adsabs.harvard.edu/abs/2019ApJ...878L..37F/abstract](https://ui.adsabs.harvard.edu/abs/2019ApJ...878L..37F/abstract)
-
 
 
 Gas Dispersal Timescales in Circumstellar Disks
